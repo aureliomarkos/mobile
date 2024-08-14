@@ -1,0 +1,6 @@
+# directories
+.idea
+/android
+/dist
+/node_modules
+
